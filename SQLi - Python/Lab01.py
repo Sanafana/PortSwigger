@@ -1,5 +1,4 @@
 #First SQLi lab from Portswigger, this script was made by Rana Khalil.
-#https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 import sys
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
