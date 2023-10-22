@@ -1,3 +1,6 @@
+#First SQLi lab from Portswigger, this script was made by Rana Khalil
+#https://portswigger.net/web-security/learning-paths/sql-injection/sql-injection-subverting-application-logic/sql-injection/lab-login-bypass#
+
 import requests
 import sys
 import urllib3
